@@ -1,0 +1,27 @@
+* {margin: 0;
+    font-family: Arial;
+    border:border-box;
+}
+.navbar {
+    height:60px;
+    background-color: black;
+    color: white;
+}
+
+.nav-logo {
+    height: 50px;
+    width: 100px;
+}
+.logo {
+    background-color: url("icon.jpg");
+    background-size: cover;
+    height: 50px;
+    width: 100%;
+}
+
+.border {
+    border: 2px solid transparent;
+}
+.border:hover {
+    border: 2px solid white;
+}
